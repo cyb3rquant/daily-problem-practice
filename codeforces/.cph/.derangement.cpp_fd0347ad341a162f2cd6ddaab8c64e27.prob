@@ -1,0 +1,1 @@
+{"name":"Local: derangement","url":"/Users/yashranjan/Documents/codeforces/derangement.cpp","tests":[{"id":1752400518007,"input":"3\n3\n2 2 3\n5\n4 5 5 2 4\n1\n1","output":"NO\nYES\n4\n4 5 2 4\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashranjan/Documents/codeforces/derangement.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: dinner-time","url":"/Users/yashranjan/Documents/codeforces/dinner-time.cpp","tests":[{"id":1746974315884,"input":"5\n3 2 2 1\n1 1 1 1\n5 4 2 3\n10 7 5 2\n4 4 1 3","output":"YES\nYES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashranjan/Documents/codeforces/dinner-time.cpp","group":"local","local":true}

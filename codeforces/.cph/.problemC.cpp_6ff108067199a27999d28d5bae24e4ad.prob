@@ -1,0 +1,1 @@
+{"name":"Local: problemC","url":"/Users/yashranjan/Documents/codeforces/problemC.cpp","tests":[{"id":1753200397498,"input":"4\n2 100\n2 1000\n13 37\n2 1000000000000000000","output":"21\n227\n7\n228571428571428570"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashranjan/Documents/codeforces/problemC.cpp","group":"local","local":true}

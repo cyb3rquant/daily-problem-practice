@@ -1,0 +1,1 @@
+{"name":"Local: pnc","url":"/Users/yashranjan/Documents/codeforces/pnc.cpp","tests":[{"id":1746262439880,"input":"5\n2\n3\n8\n15\n43\n","output":"2\n3\n17\n57\n463\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashranjan/Documents/codeforces/pnc.cpp","group":"local","local":true}
